@@ -1,0 +1,15 @@
+C:\C#\FuncEx\bin\Debug\net6.0\08FuncEx.exe
+C:\C#\FuncEx\bin\Debug\net6.0\08FuncEx.deps.json
+C:\C#\FuncEx\bin\Debug\net6.0\08FuncEx.runtimeconfig.json
+C:\C#\FuncEx\bin\Debug\net6.0\08FuncEx.dll
+C:\C#\FuncEx\bin\Debug\net6.0\08FuncEx.pdb
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.csproj.AssemblyReference.cache
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.AssemblyInfoInputs.cache
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.AssemblyInfo.cs
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.csproj.CoreCompileInputs.cache
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.dll
+C:\C#\FuncEx\obj\Debug\net6.0\refint\08FuncEx.dll
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.pdb
+C:\C#\FuncEx\obj\Debug\net6.0\08FuncEx.genruntimeconfig.cache
+C:\C#\FuncEx\obj\Debug\net6.0\ref\08FuncEx.dll

@@ -1,0 +1,15 @@
+C:\C#\07ClassAccess\bin\Debug\net6.0\07ClassAccess.exe
+C:\C#\07ClassAccess\bin\Debug\net6.0\07ClassAccess.deps.json
+C:\C#\07ClassAccess\bin\Debug\net6.0\07ClassAccess.runtimeconfig.json
+C:\C#\07ClassAccess\bin\Debug\net6.0\07ClassAccess.dll
+C:\C#\07ClassAccess\bin\Debug\net6.0\07ClassAccess.pdb
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.csproj.AssemblyReference.cache
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.AssemblyInfoInputs.cache
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.AssemblyInfo.cs
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.csproj.CoreCompileInputs.cache
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.dll
+C:\C#\07ClassAccess\obj\Debug\net6.0\refint\07ClassAccess.dll
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.pdb
+C:\C#\07ClassAccess\obj\Debug\net6.0\07ClassAccess.genruntimeconfig.cache
+C:\C#\07ClassAccess\obj\Debug\net6.0\ref\07ClassAccess.dll

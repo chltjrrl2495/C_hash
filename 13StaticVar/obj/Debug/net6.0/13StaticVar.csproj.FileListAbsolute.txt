@@ -1,0 +1,15 @@
+C:\C#\13StaticVar\bin\Debug\net6.0\13StaticVar.exe
+C:\C#\13StaticVar\bin\Debug\net6.0\13StaticVar.deps.json
+C:\C#\13StaticVar\bin\Debug\net6.0\13StaticVar.runtimeconfig.json
+C:\C#\13StaticVar\bin\Debug\net6.0\13StaticVar.dll
+C:\C#\13StaticVar\bin\Debug\net6.0\13StaticVar.pdb
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.csproj.AssemblyReference.cache
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.AssemblyInfoInputs.cache
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.AssemblyInfo.cs
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.csproj.CoreCompileInputs.cache
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.dll
+C:\C#\13StaticVar\obj\Debug\net6.0\refint\13StaticVar.dll
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.pdb
+C:\C#\13StaticVar\obj\Debug\net6.0\13StaticVar.genruntimeconfig.cache
+C:\C#\13StaticVar\obj\Debug\net6.0\ref\13StaticVar.dll

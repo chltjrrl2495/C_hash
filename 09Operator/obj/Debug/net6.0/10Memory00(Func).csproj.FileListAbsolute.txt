@@ -1,0 +1,15 @@
+C:\C#\09Operator\bin\Debug\net6.0\10Memory00(Func).exe
+C:\C#\09Operator\bin\Debug\net6.0\10Memory00(Func).deps.json
+C:\C#\09Operator\bin\Debug\net6.0\10Memory00(Func).runtimeconfig.json
+C:\C#\09Operator\bin\Debug\net6.0\10Memory00(Func).dll
+C:\C#\09Operator\bin\Debug\net6.0\10Memory00(Func).pdb
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).csproj.AssemblyReference.cache
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).AssemblyInfoInputs.cache
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).AssemblyInfo.cs
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).csproj.CoreCompileInputs.cache
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).dll
+C:\C#\09Operator\obj\Debug\net6.0\refint\10Memory00(Func).dll
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).pdb
+C:\C#\09Operator\obj\Debug\net6.0\10Memory00(Func).genruntimeconfig.cache
+C:\C#\09Operator\obj\Debug\net6.0\ref\10Memory00(Func).dll

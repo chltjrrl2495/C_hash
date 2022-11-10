@@ -1,0 +1,15 @@
+C:\C#\WOWMAPEDITOR\bin\Debug\net6.0\WOWMAPEDITOR.exe
+C:\C#\WOWMAPEDITOR\bin\Debug\net6.0\WOWMAPEDITOR.deps.json
+C:\C#\WOWMAPEDITOR\bin\Debug\net6.0\WOWMAPEDITOR.runtimeconfig.json
+C:\C#\WOWMAPEDITOR\bin\Debug\net6.0\WOWMAPEDITOR.dll
+C:\C#\WOWMAPEDITOR\bin\Debug\net6.0\WOWMAPEDITOR.pdb
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.csproj.AssemblyReference.cache
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.AssemblyInfoInputs.cache
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.AssemblyInfo.cs
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.csproj.CoreCompileInputs.cache
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.dll
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\refint\WOWMAPEDITOR.dll
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.pdb
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\WOWMAPEDITOR.genruntimeconfig.cache
+C:\C#\WOWMAPEDITOR\obj\Debug\net6.0\ref\WOWMAPEDITOR.dll

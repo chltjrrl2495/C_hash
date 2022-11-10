@@ -1,0 +1,15 @@
+C:\C#\06LocalVar\bin\Debug\net6.0\06LocalVar.exe
+C:\C#\06LocalVar\bin\Debug\net6.0\06LocalVar.deps.json
+C:\C#\06LocalVar\bin\Debug\net6.0\06LocalVar.runtimeconfig.json
+C:\C#\06LocalVar\bin\Debug\net6.0\06LocalVar.dll
+C:\C#\06LocalVar\bin\Debug\net6.0\06LocalVar.pdb
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.csproj.AssemblyReference.cache
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.AssemblyInfoInputs.cache
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.AssemblyInfo.cs
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.csproj.CoreCompileInputs.cache
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.dll
+C:\C#\06LocalVar\obj\Debug\net6.0\refint\06LocalVar.dll
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.pdb
+C:\C#\06LocalVar\obj\Debug\net6.0\06LocalVar.genruntimeconfig.cache
+C:\C#\06LocalVar\obj\Debug\net6.0\ref\06LocalVar.dll

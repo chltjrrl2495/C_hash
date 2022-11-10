@@ -1,0 +1,15 @@
+C:\C#\WOWSKILLEDITOR\bin\Debug\net6.0\WOWSKILLEDITOR.exe
+C:\C#\WOWSKILLEDITOR\bin\Debug\net6.0\WOWSKILLEDITOR.deps.json
+C:\C#\WOWSKILLEDITOR\bin\Debug\net6.0\WOWSKILLEDITOR.runtimeconfig.json
+C:\C#\WOWSKILLEDITOR\bin\Debug\net6.0\WOWSKILLEDITOR.dll
+C:\C#\WOWSKILLEDITOR\bin\Debug\net6.0\WOWSKILLEDITOR.pdb
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.csproj.AssemblyReference.cache
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.AssemblyInfoInputs.cache
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.AssemblyInfo.cs
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.csproj.CoreCompileInputs.cache
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.dll
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\refint\WOWSKILLEDITOR.dll
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.pdb
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\WOWSKILLEDITOR.genruntimeconfig.cache
+C:\C#\WOWSKILLEDITOR\obj\Debug\net6.0\ref\WOWSKILLEDITOR.dll

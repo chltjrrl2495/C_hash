@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "10Memory00(Func)/1.0.0": {
+        "runtime": {
+          "10Memory00(Func).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10Memory00(Func)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

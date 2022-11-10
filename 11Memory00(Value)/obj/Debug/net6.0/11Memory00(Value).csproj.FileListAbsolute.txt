@@ -1,0 +1,15 @@
+C:\C#\11Memory00(Value)\bin\Debug\net6.0\11Memory00(Value).exe
+C:\C#\11Memory00(Value)\bin\Debug\net6.0\11Memory00(Value).deps.json
+C:\C#\11Memory00(Value)\bin\Debug\net6.0\11Memory00(Value).runtimeconfig.json
+C:\C#\11Memory00(Value)\bin\Debug\net6.0\11Memory00(Value).dll
+C:\C#\11Memory00(Value)\bin\Debug\net6.0\11Memory00(Value).pdb
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).csproj.AssemblyReference.cache
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).AssemblyInfoInputs.cache
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).AssemblyInfo.cs
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).csproj.CoreCompileInputs.cache
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).dll
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\refint\11Memory00(Value).dll
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).pdb
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\11Memory00(Value).genruntimeconfig.cache
+C:\C#\11Memory00(Value)\obj\Debug\net6.0\ref\11Memory00(Value).dll

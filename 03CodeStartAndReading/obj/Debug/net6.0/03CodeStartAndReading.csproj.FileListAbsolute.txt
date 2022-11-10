@@ -1,0 +1,15 @@
+C:\C#\03CodeStartAndReading\bin\Debug\net6.0\03CodeStartAndReading.exe
+C:\C#\03CodeStartAndReading\bin\Debug\net6.0\03CodeStartAndReading.deps.json
+C:\C#\03CodeStartAndReading\bin\Debug\net6.0\03CodeStartAndReading.runtimeconfig.json
+C:\C#\03CodeStartAndReading\bin\Debug\net6.0\03CodeStartAndReading.dll
+C:\C#\03CodeStartAndReading\bin\Debug\net6.0\03CodeStartAndReading.pdb
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.csproj.AssemblyReference.cache
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.AssemblyInfoInputs.cache
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.AssemblyInfo.cs
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.dll
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\refint\03CodeStartAndReading.dll
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.pdb
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\03CodeStartAndReading.genruntimeconfig.cache
+C:\C#\03CodeStartAndReading\obj\Debug\net6.0\ref\03CodeStartAndReading.dll
